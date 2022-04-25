@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(249, 242, 205, 1);
+}
+.font-nav{
+    font-family: 'Goldman', cursive;
+}
+.navbar-brand{
+    font-weight: 700;
+}
+.navbar{
+    background-color: rgba(255, 215, 2, 1);
+}
+.nav-link.active{
+    font-weight: 700;
+}
+
+/* section game*/
+#layanan{
+    font-family: 'Goldman', cursive;
+}
+.card{
+    border: none;
+}
+.card-body h5{
+    color: black;
+    text-align: center;
+    font-family: 'Goldman', cursive;
+}
+.card:hover{
+    background: linear-gradient(170deg, #ffd902, #ffd904,rgb(36, 36, 36));
+    box-shadow: 0 10px 20px #0000;
+    transition: all ease-in-out .3s;
+}
+.card:hover .card-body h5{
+    color: white;
+    transition: all ease-in-out .3s;
+}
