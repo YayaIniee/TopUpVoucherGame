@@ -29,7 +29,7 @@ if (!isset($_SESSION)) {
     <!-- font-family: 'Goldman', cursive; font-family: 'Righteous', cursive; -->
 
     <!-- logo icon title -->
-    <link rel="icon" href="image/Icon.png" type="image/x-icon">
+    <link rel="icon" href="image/iconn.png" type="image/x-icon">
 
     <title>Top Up Games</title>
 
@@ -65,17 +65,17 @@ if (!isset($_SESSION)) {
   </div>
 </nav> 
 
-<!-- carausel for banner
+<!-- carausel for banner -->
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="image/Banner/1.png" class="d-block w-100" alt="...">
+      <img src="image/1.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="image/Banner/2.jpg" class="d-block w-100" alt="...">
+      <img src="image/2.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="image/Banner/3.jpg" class="d-block w-100" alt="...">
+      <img src="image/3.jpg" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
@@ -86,7 +86,7 @@ if (!isset($_SESSION)) {
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
-</div> -->
+</div> 
 
 <!-- game section -->
 <section id="layanan">
